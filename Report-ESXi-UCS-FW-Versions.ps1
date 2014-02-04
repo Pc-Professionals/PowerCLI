@@ -4,7 +4,7 @@
 #    1. You have already connected to the appropriate vSphere server and UCS environment in PowerShell/PowerCLI.
 #    2. The path you enter for the -Path parameter is valid and you have the proper rights to write files there.
 #
-# Author: Tim Patterson <timothy.patterson@proquest.com>
+# Author: Tim Patterson <tim@pc-professionals.net>
 # Last Updated: 2014-02-04
 # 
 
